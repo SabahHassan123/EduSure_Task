@@ -32,11 +32,16 @@ This project is a responsive and modern navigation bar built using **React**, **
    ```bash
    src/
     │
-    ├── components/
-    │   └── NavBar.jsx
+    ├── Components/
+    │   └── navbar.js
+    │   └── admin.js
+    │   └── cart.js
+    │   └── courses.js
+    │   └── login.js
+    │   └── home.js
     │
     ├── App.jsx
-    └── main.jsx
+    └── index.jsx
    ```
 
 
