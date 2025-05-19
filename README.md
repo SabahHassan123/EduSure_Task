@@ -37,7 +37,7 @@ This project is a responsive and modern navigation bar built using **React**, **
     │
     ├── App.jsx
     └── main.jsx
-    ```
+   ```
 
 
 
